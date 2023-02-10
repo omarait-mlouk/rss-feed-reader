@@ -1,5 +1,6 @@
 # RSS feed reader in terminal
 
+Built using the BeautifulSoup library. The reader parses XML-based RSS feed data, extracts the information, stores it in a structured format and displays it in the console as well as saves it in a json file. 
 
 
 ## Prerequisites
